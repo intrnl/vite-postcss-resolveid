@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "packageManager": "pnpm@8.1.0",
+	"scripts": {
+		"dev": "cd app; pnpm vite",
+		"build": "cd app; pnpm vite build",
+		"preview": "cd app; pnpm vite preview"
+	}
+}

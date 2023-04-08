@@ -1,0 +1,16 @@
+{
+	"type": "module",
+	"name": "wlb-hc-exploration",
+	"private": true,
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"dependencies": {
+		"toolkit": "workspace:*"
+	},
+	"devDependencies": {
+		"vite": "4.3.0-beta.3"
+	}
+}

@@ -1,0 +1,13 @@
+@import '@unocss/reset/tailwind.css';
+
+html {
+  font-family: 'Roboto', ui-sans-serif, sans-serif;
+}
+
+body {
+  font-size: 14px;
+}
+
+form {
+  counter-reset: form;
+}
